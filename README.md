@@ -8,4 +8,4 @@ Learn the basics of html, css and javascript.
 
 ## Result
 
-![GIF](./materials/presentation.gif)
+![GIF](./misc/presentation.gif)
